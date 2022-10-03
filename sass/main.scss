@@ -2,6 +2,12 @@
 
 @import "./base/reset";
 @import "./base/base";
+@import "./base/vars";
 
 //blocks
 @import "./block/_section-cart";
+@import "./block/_titles";
+@import "./block/_cart-header";
+@import "./block/_cart-footer";
+@import "./block/_product";
+@import "./block/_count";
